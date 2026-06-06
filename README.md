@@ -1,6 +1,6 @@
 # Ai Agent Work Flow
 
-Run the ps1 codes from terminal opened in that directory it will help to install, configure, update and maintain tour Hermes Agent in your desktop environment utilizing UV
+Run the ps1 codes from terminal opened in that directory it will help to install, configure, update and maintain your Hermes Agent in your desktop environment utilizing UV
 Use commands in power shell like this
 
 powershell -ExecutionPolicy Bypass -File .\install_hermes.ps1
