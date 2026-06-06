@@ -14,7 +14,7 @@ If you cant find the directories then search for them using your default device 
 env path is the main thing in this method of installation.
 
 once all the installations are done
-Use the python Ui once the installations are finished to run Hermese any time painlessly by clicking a button.
+Use the python Ui to run Hermese any time painlessly by clicking a button.
 
 Configure Hermes according to NousResearch descriptions using subscription plans or ollama locally or both
 
