@@ -1,1 +1,3 @@
-powershell -ExecutionPolicy Bypass -File .\git_push_ignore.ps1
+# Open power shell as administrator from that directory where all the files are and run all the ps1 .\
+
+powershell -ExecutionPolicy Bypass -File .\install_hermes.ps1
