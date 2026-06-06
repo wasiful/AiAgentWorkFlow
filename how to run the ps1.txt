@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File .\git_push_ignore.ps1
